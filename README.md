@@ -12,7 +12,7 @@ on Sauce Demo — a platform designed for QA practice.
 | Test File | Scenarios Covered |
 |---|---|
 | `test_login.py` | Valid login, invalid credentials, locked out user, empty fields |
-| `test_cart.py` | Add to cart, remove from cart, cart persistence _(coming soon)_ |
+| `test_cart.py` | Add to cart, cart badge updates, item appears in cart, remove from cart |
 | `test_checkout.py` | Full checkout flow, form validation _(coming soon)_ |
 
 ---
